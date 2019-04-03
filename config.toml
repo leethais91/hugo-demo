@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "/"
 languageCode = "en-us"
-title = "Restaurant Theme By Themefisher"
+title = "Trang Lam restaurant"
 theme="restaurant-hugo"
 summaryLength = "7"
 
